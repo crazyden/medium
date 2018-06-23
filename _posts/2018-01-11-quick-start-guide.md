@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick Start Guide"
+title:  "Guide rapide démarrage"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
